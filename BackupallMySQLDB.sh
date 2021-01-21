@@ -1,4 +1,20 @@
+################################
+#                               #
+#                               #
+#                               #
+#                               #
+#                               #
+#                               #
+#                               #
+#                               #           
+#################################
+#                               #
+#                               #
+#                 Pablo ramírez #
+#################################
+
 Fecha=`date '+%F_%T'`
+path ='/root/dbBackupTemp'
 
 #mkdir -p /root/dbBackupTemp && mysql -uadmin -p`cat /etc/psa/.psa.shadow` -e "show databases;" 
 #| grep -v Database | grep -v "\+\-\-" | awk '{print "mysqldump -                                           

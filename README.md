@@ -24,7 +24,7 @@ Script for make backur for all  mysql database in a server or local
 <li>3 - Show all database</li>
 <li>4 - filter database</li>
 <li>5 - make mysqldump in direcory</li>
-<li>6 - compress in tar gz all directory</li>
+<li>6 - compress in tar gz this directory</li>
 </ul>
 <br>
 <h2>Instructions</h2>
