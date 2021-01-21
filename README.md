@@ -1,27 +1,13 @@
 # BackupallMySQLDB
 
 
-MMMMMMMMMMMMMMMMMMWWWWWWMMMMMMMMMMMMMMMM
-MMMMMMMMMMMMMMWXK00OOOOO0KXWMMMMMMMMMMMM
-MMMMMMMMMMMMW0xxxdxOOOkddxxkKWMMMMMMMMMM
-MMMMMMMMMMMNkodxOKNWWWWNKOdookNMMMMMMMMM
-MMMMMMMMMMWOood0WMMMMMMMMWOollOMMMMMMMMM
-MMMMMMMMMMXdocdNMMMMMMMMMMXdlcdNMMMMMMMM
-MMMMMMMMMMKdlcxWMMMMMMMMMMWxlloXMMMMMMMM
-MMMMMMMMMMKdlckMMMMMMMMMMMWxlloXMMMMMMMM
-MMMMMMMMMMKolcxMMMMMMMMMMMWkcloXMMMMMMMM
-MMMMMMMMNKOdooxKXXXXXXXXXXXkdddkKWMMMMMM
-MMMMMMMMKdlloddxxxxkkkkkkkkkkxdcdNMMMMMM
-MMMMMMMMKdlloodxxxkkkkkkkkkkkxdlxNMMMMMM
-MMMMMMMMKdlloddxxkkkkkkkkkkkkxdlxNMMMMMM
-MMMMMMMMKdllodxxxkkkkkkkOOkkkxdlxNMMMMMM
-MMMMMMMMKdolodxxxkkkkkkkkkkkkkdlxNMMMMMM
-MMMMMMMMKdollodxxSECURITYkkkxkdlxNMMMMMM
-MMMMMMMMKdolloxxkkkkkkxdxxxxxxdlxNMMMMMM
-MMMMMMMMKdolloxkkkkkkkkkkkkxxkdlxNMMMMMM
-MMMMMMMMKxooodxxxkkkkkkkkkkkkxdlxNMMMMMM
-MMMMMMMMWNXXXXXXXXXXXXXXXXXXXXKKNWMMMMMM
-MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+  #####   #######   #####   #     #  ######   ###  #######  #     # 
+ #     #  #        #     #  #     #  #     #   #      #      #   #  
+ #        #        #        #     #  #     #   #      #       # #   
+  #####   #####    #        #     #  ######    #      #        #    
+       #  #        #        #     #  #   #     #      #        #    
+ #     #  #        #     #  #     #  #    #    #      #        #    
+  #####   #######   #####    #####   #     #  ###     #        #    
 
 
 
