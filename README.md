@@ -3,10 +3,12 @@ bash backup all databases
 
 Script for make backur for all  mysql database in a server or local
 <h1>WORK</h1>
-1 - Generate directory /root/dbBackupTemp
-2 - Get mysql Credential foradmin
-3 - Show all database
-4 
+<ul>
+<li>1 - Generate directory /root/dbBackupTemp</li>
+<li>2 - Get mysql Credential foradmin</li>
+<li>3 - Show all database</li>
+<li>4 - Make backup</li>
+</ul>
 <br>
 <h2>Instructions</h2>
 <h3>Permission</h3>
