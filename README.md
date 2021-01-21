@@ -1,7 +1,7 @@
 # sqlbackupdb
 bash backup all databases
 
-Script for make backur for all  mysql database in a server
+Script for make backur for all  mysql database in a server or local
 
 <h3>Permission</h3>
 <pre>
