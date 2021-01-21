@@ -1,4 +1,4 @@
-# sqlbackupdb
+# BackupallMySQLDB
 bash backup all databases
 
 Script for make backur for all  mysql database in a server or local
@@ -7,7 +7,9 @@ Script for make backur for all  mysql database in a server or local
 <li>1 - Generate directory /root/dbBackupTemp</li>
 <li>2 - Get mysql Credential foradmin</li>
 <li>3 - Show all database</li>
-<li>4 - Make backup</li>
+<li>4 - filter database</li>
+<li>5 - make mysqldump in direcory</li>
+<li>6 - compress in tar gz all directory</li>
 </ul>
 <br>
 <h2>Instructions</h2>
