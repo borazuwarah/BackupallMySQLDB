@@ -13,3 +13,15 @@ chmod +x allbdbackup.sh
 sh alldbbackup.sh
 </pre>
 
+<h1>Necesary</h1>
+Intall mysql dump
+<br>
+on linux
+<pre>apt install mysql-server</pre>
+
+on Windows
+<pre> - </pre>
+<pre>https://dev.mysql.com/downloads/mysql/</pre>
+
+
+
