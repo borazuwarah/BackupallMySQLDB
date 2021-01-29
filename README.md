@@ -20,7 +20,7 @@ Script for make backur for all  mysql database in a server or local
 <h1>RUN</h1>
 <ul>
 <li>1 - Generate directory /root/dbBackupTemp</li>
-<li>2 - Get mysql Credential foradmin</li>
+<li>2 - Get mysql Credential for admin</li>
 <li>3 - Show all database</li>
 <li>4 - filter database</li>
 <li>5 - make mysqldump in direcory</li>
